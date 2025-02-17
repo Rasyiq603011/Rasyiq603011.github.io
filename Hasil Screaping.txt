@@ -1,0 +1,26 @@
+Heading Utama: Tidak ditemukan
+H2: PROFIL
+H2: Riwayat Pendidikan
+H2: PENGALAMAN ORGANISASI DAN KEGIATAN
+H2: KETERAMPILAN
+H3: Praktik Dakwah dan Pengenalan Masyarakat (2023)
+H3: Anggota bidang Lingkungan Hidup OSHK 27 (2022 - 2023)
+H3: Bidang logistik ARESTA 18 (2023)
+H3: Senandung 9 (2023)
+H3: Pesantren kilat SENYUMAN 12 di SMP Negeri 2 Bandung (2022)
+Paragraf 1 dalam Pengenalan: 
+                    Saya seorang Mahasiswa yang sedang menempuh Pendidikan tinggi di Politeknik Negeri Bandung. Saya memiliki minat di
+                    bidang pendidikan dan teknologi. Saya pernah aktif dalam organisasi pelajar, serta berbagai proyek sosial dan
+                    pendidikan seperti program mengajar pesantren kilat, bakti sosial, dan tutor sebaya di sekolah. Saya memiliki etos
+                    kerja yang baik dan berencana untuk terus berkontribusi dalam bidang sosial dan pendidikan.
+
+Paragraf 1 dalam Pengalaman: Kegiatan sosial dalam bentuk pengabdian masyarakat di Desa Kasturi, Kecamatan Cikijing, Kabupaten Majalengka. Saya merangkap jabatan sebagai penanggung jawab program pendidikan dan keagamaan serta terlibat secara aktif dalam setiap program yang dilaksanakan. Salah satu program pendidikan yang saya adakan adalah program mengajar di sekolah. Sedangkan dalam bidang keagamaan, saya mengadakan seminar keagamaan.
+Paragraf 2 dalam Pengalaman: Saya menjabat sebagai seorang penanggung jawab marhalah kelas 8 MTs. Saya bertanggung jawab dalam menjalankan program yang berkaitan dengan kebersihan lingkungan pondok pesantren (khususnya di lingkungan asrama marhalah kelas 8 MTs) dan menumbuhkan rasa kesadaran akan kebersihan pada pribadi santri.
+Paragraf 3 dalam Pengalaman: Saya menjabat sebagai anggota bidang logistik. Saya berperan dalam menyediakan serta memasang berbagai macam dekorasi dan berbagai macam barang yang menunjang keberlangsungan acara.
+Paragraf 4 dalam Pengalaman: Acara bakti sosial yang diadakan oleh Asosiasi Santri Husnul Khotimah Asal Bandung Raya (ANNABA) di pondok pesantren alKhawarizmi, Panyileukan, Bandung. Saya berperan dalam bidang logistik dan sebagai mentor pembimbing santri.
+Paragraf 5 dalam Pengalaman: Bertindak sebagai kepala koordinasi hubungan masyarakat yang berperan sebagai penghubung antara panitia dengan pihak sekolah, donatur, dan sponsor. Selain itu, saya juga menjadi mentor di salah satu kelas dan memberikan pengajaran tentang materi keagamaan dan organisasi selama 4 hari di SMP Negeri 2 Bandung dalam bentuk peran selama acara berlangsung.
+Link Navigasi: #Pengenalan - Profil
+Link Navigasi: #Pendidikan - Riwayat Pendidikan
+Link Navigasi: #Pengalaman - Pengalaman Organisasi dan Kegiatan
+Link Navigasi: #Kemampuan - Kemampuan
+PS E:\Semester 2\Proyek 1\Pertemuan 1\Web CV> 

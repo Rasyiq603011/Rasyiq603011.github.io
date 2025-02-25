@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Alhamdulillah selesai
 jdbdkjabdk
 kabdjkahsks
@@ -19,3 +20,6 @@ jdbdkjabdk
 kabdjkahsks
 AASKANS
 SKANS
+=======
+
+>>>>>>> 820a84f4e6367908159bfb69af0e62ca413062ca
